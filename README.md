@@ -1,4 +1,4 @@
-# J. Leonardo Ocanto P.
+# Leonardo Ocanto P.
 ## Senior AI Architect & Process Automation Engineer
 
 Welcome to my professional architecture portfolio. This space showcases production-ready integration patterns, local infrastructure configurations, and multi-system automation pipelines designed to minimize operational costs while protecting enterprise data privacy.
@@ -47,5 +47,5 @@ In accordance with rigorous modern engineering practices:
 ## 📬 Contact & Credentials
 *   **Portfolio Web:** [ocantoai.github.io](https://ocantoai.github.io)
 *   **LinkedIn:** [linkedin.com/in/ocanto/](https://www.linkedin.com/in/ocanto/)
-*   **Email:** leonardo.ocanto@gmail.com
+*   **Email:** ocanto.ai@gmail.com
 *   **Professional Affiliations:** Project Management Institute (PMI) | Society of Petroleum Engineers (SPE) | Colegio de Ingenieros de Venezuela (CIV)
